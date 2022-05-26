@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497188174283",
+    "project_id": "logintubes",
+    "storage_bucket": "logintubes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497188174283:android:a90642684e973ac91a9e4e",
+        "android_client_info": {
+          "package_name": "com.f55119019.tugasbesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497188174283-qujt9kn470tcp7cferj3b0mt4tlaq94h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KzVkCRmIIOhyFtln-FRcQdxUvfq8BQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497188174283-qujt9kn470tcp7cferj3b0mt4tlaq94h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
